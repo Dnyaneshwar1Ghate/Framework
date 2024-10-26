@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-01T21:15:30Z" name="Default suite" finished-at="2024-06-01T21:15:39Z" duration-ms="9363">
+    <groups>
+    </groups>
+    <test started-at="2024-06-01T21:15:30Z" name="Default test" finished-at="2024-06-01T21:15:39Z" duration-ms="9363">
+      <class name="com.automation.pages.OpenURL">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:com.automation.pages.OpenURL@6f19ac19]" started-at="2024-06-01T21:15:30Z" name="setDriver" finished-at="2024-06-01T21:15:39Z" duration-ms="9348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+      </class> <!-- com.automation.pages.OpenURL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
